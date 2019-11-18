@@ -1,6 +1,4 @@
 
-# Jacob Velarde Neri
-
 *Cuernavaca, Morelos*
 
 *Email: st.jacob1992@gmail.com*
