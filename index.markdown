@@ -1,5 +1,6 @@
 
----
+# Jacob Velarde Neri
+
 *Cuernavaca, Morelos*
 
 *Email: st.jacob1992@gmail.com*
@@ -28,7 +29,7 @@ Instituto Tecnologico de Zcatepec
 
 *Desarrollador de aplicaciones nativas para iOS y Android con clientes como BBVA y Aeroméxico*
 
-`Instituto Nacional de Salud Pública`
+`Instituto Nacional de Salud Pública
 
 *Febrero 2018 - Marzo 2019*
 
