@@ -16,7 +16,7 @@ Me considero una persona tranquila y con iniciativa para proponer soluciones a d
 
 ### **Estudios**
 ---
-##### Ingeniería en sistemas computacionales
+#### Ingeniería en sistemas computacionales
 Instituto Tecnologico de Zcatepec
 
 ### **Experencia**
@@ -27,7 +27,7 @@ Instituto Tecnologico de Zcatepec
 
 *Desarrollador de aplicaciones nativas para iOS y Android con clientes como BBVA y Aeroméxico*
 
-`Instituto Nacional de Salud Pública
+`Instituto Nacional de Salud Pública`
 
 *Febrero 2018 - Marzo 2019*
 
